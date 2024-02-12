@@ -60,24 +60,6 @@ function App() {
           <MilkCarton />
         </>
       )}
-      {/* // <Header />
-      // <Navbar />
-      // <MilkCarton /> */}
-      {/* aside mobile */}
-      {/* // <aside className={`md:hidden  w-full h-screen bg-black/85 `}>
-      //   <div
-      //     className={`bg-slate-300 ${
-      //       isOpen
-      //         ? "transition delay-300 duration-700 ease-in-out w-2/3 "
-      //         : "transition delay-300 duration-700 ease-in-out w-0 "
-      //     }  h-full`}
-      //   >
-      //     <ul>
-      //       <li></li>
-      //     </ul>
-      //   </div>
-      // </aside> */}
-      {/* aside mobile */}
     </div>
   );
 }
