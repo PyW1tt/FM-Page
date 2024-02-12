@@ -22,7 +22,7 @@ function App() {
               <li className="flex mb-5">
                 <p className="pr-2">สินค้าทั้งหมด</p>
                 <img
-                  src="../public/icon/triangle_icon_176936.svg"
+                  src="../icon/triangle_icon_176936.svg"
                   alt=""
                   width={15}
                   height={15}
@@ -35,7 +35,7 @@ function App() {
                 <a href="#" className="flex mb-5">
                   <p className="pr-2">แหล่งความรู้</p>
                   <img
-                    src="../public/icon/triangle_icon_176936.svg"
+                    src="../icon/triangle_icon_176936.svg"
                     alt=""
                     width={15}
                     height={15}
@@ -50,7 +50,7 @@ function App() {
               setIsOpen(!isOpen);
             }}
           >
-            <img src="../public/icon/x.svg" alt="" className="w-10 h-10" />
+            <img src="../icon/x.svg" alt="" className="w-10 h-10" />
           </button>
         </aside>
       ) : (
